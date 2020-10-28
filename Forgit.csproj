@@ -68,7 +68,10 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="HtmlPage1.html" />
+<<<<<<< HEAD
     <Content Include="new.html" />
+=======
+>>>>>>> ebe7b3c578eff2ab298b6741415f6306619fb504
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
